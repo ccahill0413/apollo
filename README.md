@@ -9,7 +9,9 @@ This repository is a working product demo, not a production app. It is meant to 
 ---
 ## Prototype
 <img width="1274" height="916" alt="Screenshot 2026-04-30 at 11 36 22 AM" src="https://github.com/user-attachments/assets/1ac8ae9b-732f-4a4e-9fb2-913f5965009c" />
+
 ---
+
 ## Why Apollo
 
 Existing playlist generators optimize for one listener and one taste profile. Family listening doesn't work that way:
