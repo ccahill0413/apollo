@@ -7,7 +7,9 @@ Apollo is a portfolio prototype that explores what it would feel like if a music
 This repository is a working product demo, not a production app. It is meant to show product judgment, end-to-end execution, and how an AI/recommendation surface might be designed for a real, messy use case (parents who keep losing the car-ride music battle).
 
 ---
-
+## Prototype
+<img width="1274" height="916" alt="Screenshot 2026-04-30 at 11 36 22 AM" src="https://github.com/user-attachments/assets/1ac8ae9b-732f-4a4e-9fb2-913f5965009c" />
+---
 ## Why Apollo
 
 Existing playlist generators optimize for one listener and one taste profile. Family listening doesn't work that way:
@@ -187,6 +189,4 @@ script/
 
 Built by **Caroline Cahill** as a product/PM portfolio piece exploring builder-style product work: real code, real UX, and a clear point of view on what the product is for and who it's for.
 
-## Prototype
-<img width="1274" height="916" alt="Screenshot 2026-04-30 at 11 36 22 AM" src="https://github.com/user-attachments/assets/1ac8ae9b-732f-4a4e-9fb2-913f5965009c" />
 
