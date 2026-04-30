@@ -186,3 +186,7 @@ script/
 ## About
 
 Built by **Caroline Cahill** as a product/PM portfolio piece exploring builder-style product work: real code, real UX, and a clear point of view on what the product is for and who it's for.
+
+## Prototype
+<img width="1274" height="916" alt="Screenshot 2026-04-30 at 11 36 22 AM" src="https://github.com/user-attachments/assets/1ac8ae9b-732f-4a4e-9fb2-913f5965009c" />
+
